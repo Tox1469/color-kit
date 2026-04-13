@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/color-kit/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/color-kit/actions)
+[![License](https://img.shields.io/github/license/Tox1469/color-kit?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/color-kit?style=flat-square)](https://github.com/Tox1469/color-kit/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/color-kit?style=flat-square)](https://github.com/Tox1469/color-kit/stargazers)
+
+---
+
 # color-kit
 
 Conversões hex/rgb/hsl/hsv + mix/darken/lighten
