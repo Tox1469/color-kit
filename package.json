@@ -1,0 +1,19 @@
+{
+  "name": "color-kit",
+  "version": "1.0.0",
+  "description": "Conversões hex/rgb/hsl/hsv + mix/darken/lighten",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["color", "hex", "rgb", "hsl", "hsv", "palette"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
